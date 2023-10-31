@@ -1,0 +1,7 @@
+python -m venv env(to create environvent)
+if it's already prrsent type:
+
+source env/Scripts/activate
+cd yolov5/
+pip install -r requirements.txt
+python run.py
